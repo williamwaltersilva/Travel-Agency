@@ -1,4 +1,6 @@
 # Travel-Agency
-Agência de viagens portuguesa que vende pacotes para diversos destinos precisa de resposta para as seguintes perguntas:
-1-	Montante de receita atingida em Março e Abril 2021 considerando o perfil dos clientes 
-2-	Analise sobre o decréscimo de receita
+A travel agency that sells packages to various destinations needs answers to the following questions:
+
+1- Amount of revenue achieved in March and April 2021 considering the customer profile
+
+2- Analysis of the decrease in revenue
